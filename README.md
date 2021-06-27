@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @more1251
-- 👀 I’m interested in Web Development and Programming 
+- 👋 Hi, I’m SHUBHAM MORE.
+- PURSUING BE-Information Technology. 
+- Current Year of Study TE-IT.
+- 👀 I’m interested in Web Development and Programming.
 - 🌱 I’m currently learning Web Development and Programming languages like Python,javascript,Java.
 
 

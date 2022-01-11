@@ -2,7 +2,7 @@
 - PURSUING BE-Information Technology. 
 - Current Year of Study TE-IT.
 - 👀 I’m interested in Web Development and Programming.
-- 🌱 I’m currently learning Web Development and Programming languages like Python,javascript,Java.
+- 🌱 I’m currently learning Web Development and Programming languages like Python,Javascript,Java,ReactJs.
 
 
 <!---

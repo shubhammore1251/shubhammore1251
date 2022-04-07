@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
-<h3 align="center">A Front End Development Geek and to be IT Engineer</h3>
+<h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=more1251&label=Profile%20views&color=0e75b6&style=flat" alt="more1251" /> </p>
 

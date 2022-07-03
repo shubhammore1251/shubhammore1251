@@ -5,7 +5,7 @@
 
 - 🌐 **Website Link:** [https://shubham-more-portfolio.web.app/](https://shubham-more-portfolio.web.app/)
 
-- 🌱 I’m currently learning **React-Redux**
+- 📚 I’m currently learning **React-Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/more1251?tab=repositories](https://github.com/more1251?tab=repositories)
 

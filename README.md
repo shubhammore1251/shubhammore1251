@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me [https://linktr.ee/shubham_1251](https://linktr.ee/shubham_1251)
+- 📄 **Resume Link:** [https://drive.google.com/file/d/1Hx-q8hvSYtey6zp1bVR6hFwecDVDA2Rb/view]
+
+- 📫 **How to reach me:** [https://linktr.ee/shubham_1251](https://linktr.ee/shubham_1251)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

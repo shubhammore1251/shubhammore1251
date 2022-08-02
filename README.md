@@ -1,4 +1,4 @@
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQHIcb13SXiXOg/profile-displaybackgroundimage-shrink_350_1400/0/1659466294908?e=1665014400&v=beta&t=GbYy-jRNGROehdTcQthUNIQkP3c0YKCZi8ZGBczTxxQ" alt="shubham-more-banner" height="30" width="40" />
+![Logo](https://media-exp1.licdn.com/dms/image/C4D16AQHIcb13SXiXOg/profile-displaybackgroundimage-shrink_350_1400/0/1659466294908?e=1665014400&v=beta&t=GbYy-jRNGROehdTcQthUNIQkP3c0YKCZi8ZGBczTxxQ)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React**
 
-- 📄 **Resume Link:** [https://t.ly/Ov15V](https://drive.google.com/file/d/1YQ3sW83rmqyHkx118WJJAQLM731pVq28/view)
+- 📄 **Resume Link:** [https://t.ly/YaAtA](https://drive.google.com/file/d/1n56MvnjxYhYPczeYeKWAhXcpkYNyDJAW/view)
 
 - 📫 **How to reach me:** [https://linktr.ee/shubham_1251](https://linktr.ee/shubham_1251)
 

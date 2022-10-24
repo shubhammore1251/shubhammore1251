@@ -1,4 +1,4 @@
-![Banner](https://t.ly/DnML)
+![Banner](https://t.ly/DnML.png)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

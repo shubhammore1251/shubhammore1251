@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/file/d/1AoawRBvFYkGXvuJjy5cl_fbaG6YiTkKS/view?usp=sharing)
+![Logo](https://drive.google.com/file/d/1AoawRBvFYkGXvuJjy5cl_fbaG6YiTkKS/view?usp=sharing.png)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

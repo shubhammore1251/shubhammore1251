@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAFIMv8S4uw/KLfYKjMoWcC7RuSM0VVCFA/view?utm_content=DAFIMv8S4uw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Banner](https://t.ly/DnML)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

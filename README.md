@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1AoawRBvFYkGXvuJjy5cl_fbaG6YiTkKS" alt="Banner" width="1600" height="396"/>
+<img src="https://drive.google.com/uc?export=view&id=1AoawRBvFYkGXvuJjy5cl_fbaG6YiTkKS" alt="Banner" width="1600" height="350"/>
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

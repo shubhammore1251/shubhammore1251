@@ -1,4 +1,4 @@
-![Banner](https://t.ly/lTu0.png)
+<img src="https://t.ly/lTu0" alt="Banner" width="40" height="40"/>
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

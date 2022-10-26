@@ -1,4 +1,4 @@
-<img src="https://files.oyebesmartest.com/uploads/large/virat-kohli-wallpaper-fulhgbht.jpg" alt="Banner" width="40" height="40"/>
+<img src="https://files.oyebesmartest.com/uploads/large/virat-kohli-wallpaper-fulhgbht.jpg" alt="Banner" width="500" height="500"/>
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

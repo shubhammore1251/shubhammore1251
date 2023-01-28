@@ -4,7 +4,7 @@
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>![image](https://user-images.githubusercontent.com/75254729/215254269-1820b030-2ee6-4771-b8b4-617a0300d305.png) Link tree: 
+🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>![image](https://user-images.githubusercontent.com/75254729/215254322-c29bc77d-9ff6-4089-a4d4-7994ab58f42a.png) Link tree: 
 
 
 ## 🌐 Socials:

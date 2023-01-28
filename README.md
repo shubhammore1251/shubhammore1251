@@ -4,7 +4,8 @@
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br> <img src="https://icons8.com/icon/GfTOMrwiax2M/linktree"/> Know more about me: []()
+🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>![image](https://user-images.githubusercontent.com/75254729/215254269-1820b030-2ee6-4771-b8b4-617a0300d305.png) Link tree: 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shubham.more.1251/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the.shubham.more/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-more1251/) 

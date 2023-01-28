@@ -1,4 +1,4 @@
-<a href="https://ibb.co/y4rWpkw"><img src="https://i.ibb.co/0sxhK9g/Purple-Pink-Modern-Programmer-Linked-In-Banner.png" width="100%" height="100%" alt="Purple-Pink-Modern-Programmer-Linked-In-Banner" border="0"></a>
+[Purple-Pink-Modern-Programmer-Linked-In-Banner.png](https://postimg.cc/JyybYPsw)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>

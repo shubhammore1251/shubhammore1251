@@ -4,7 +4,7 @@
 <h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>🌳 Link tree: https://linktr.ee/shubham_1251
+🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>🌳 Link tree: https://linktr.ee/shubham.more
 
 
 ## 🌐 Socials:

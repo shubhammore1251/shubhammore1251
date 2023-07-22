@@ -1,7 +1,7 @@
 [![Purple-Pink-Modern-Programmer-Linked-In-Banner.png](https://i.postimg.cc/SNkvT7d5/Purple-Pink-Modern-Programmer-Linked-In-Banner.png)](https://postimg.cc/s1Hm1Wt9)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
-<h3 align="center">A Front End Web Development Geek and to be IT Engineer</h3>
+<h3 align="center">A Front End Web Developer and IT Engineer/h3>
 
 # 💫 About Me:
 🔭 I’m currently working on React.js<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>🌳 Link tree: https://linktr.ee/shubham.more

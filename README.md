@@ -4,7 +4,7 @@
 <h3 align="center">A Front End Web Developer and IT Engineer</h3>
 
 # 💫 About Me:
-👨🏻‍💻 💼 Software Engineer<br>🌱 I’m currently exploring React Native<br>💬 Ask me about React and Front-End<br>🌳 Link tree: https://linktr.ee/shubham.more
+👨🏻‍💻 💼 Software Engineer<br>🌱 I’m currently learning React Native<br>💬 Ask me about React and Front-End<br>🌳 Link tree: https://linktr.ee/shubham.more
 
 
 ## 🌐 Socials:

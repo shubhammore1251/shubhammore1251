@@ -1,4 +1,4 @@
-[![Purple-Pink-Modern-Programmer-Linked-In-Banner-3.png](https://i.postimg.cc/rFQf7WZw/Purple-Pink-Modern-Programmer-Linked-In-Banner-3.png)](https://postimg.cc/yk3hZJzM)
+[![Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png](https://i.postimg.cc/c1zMz9Rn/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png)](https://postimg.cc/RqcH6TbS)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 

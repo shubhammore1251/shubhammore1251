@@ -1,4 +1,4 @@
-[![Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png](https://i.postimg.cc/c1zMz9Rn/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png)](https://postimg.cc/RqcH6TbS)
+[![Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner-1.png](https://i.postimg.cc/Cdy8x27r/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner-1.png)](https://postimg.cc/YL30XbJQ)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 

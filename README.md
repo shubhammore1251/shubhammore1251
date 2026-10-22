@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM MORE</h1>
 
 # 💫 About Me:
-👨🏻‍💻 💼 Software Engineer<br>🌱 I’m currently learning Generative AI, LLMs, RAG, and Agentic AI.<br>💬 Ask me about React and Front-End<br>🌳 Link tree:  https://linktr.ee/shubham.more
+👨🏻‍💻 💼 Software Engineer<br>🌱 I’m currently learning Generative AI, LLMs, RAG, and Agentic AI.<br>🌳 Link tree:  https://linktr.ee/shubham.more
 
 
 ## 🌐 Socials:
